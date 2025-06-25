@@ -54,4 +54,3 @@ Go service will run at: http://localhost:5000
 Python (Flask) service will run at: http://localhost:8000
 
 NGINX will reverse proxy and serve: http://localhost (based on config)
-
